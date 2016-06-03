@@ -16,7 +16,7 @@
 	</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="<?php bloginfo('template_url'); ?>/css/SUPERHERO_bootstrap.min.css" rel="stylesheet">
+	<link href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css" rel="stylesheet">
 
 	<link href="<?php bloginfo('template_url'); ?>/css/bootstrap-social.css" rel="stylesheet">
 	<link href="<?php bloginfo('template_url'); ?>/css/font-awesome.min.css" rel="stylesheet">
