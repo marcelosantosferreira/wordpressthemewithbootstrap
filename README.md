@@ -1,5 +1,5 @@
 ## Screenshot
-![alt text](screenshot.png "Bootstrap Theme For Wordpress")
+![alt text](screenshot.jpg "Bootstrap Theme For Wordpress")
 
 ## Synopsis
 A basic Wordpress Theme built with Bootstrap (my 1st Theme for Wordpress)
