@@ -1,0 +1,15 @@
+/*
+Theme Name: BS3 Theme (default SUPERHERO)
+Theme URI: 
+Version: 1
+Author: Marcelo Santos Ferreira
+Author URI: http://www.linkedin.com/in/msferreira
+Description: Primeiro tema responsivo com Bootstrap3
+/*
+/*
+@import url('css/SUPERHERO_bootstrap.min.css');
+@import url('css/bootstrap-social.css');
+@import url('css/font-awesome.min.css');
+@import url('css/ie10-viewport-bug-workaround.css');
+@import url('css/starter-template.css');
+*/
