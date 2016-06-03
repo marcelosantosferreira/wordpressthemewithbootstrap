@@ -20,8 +20,5 @@ https://github.com/twittem/wp-bootstrap-navwalker
 
 ## Help
 If you need help to make this Wordpress theme work properly (because of the navbar "hack") please contact me.
-<<<<<<< HEAD
+
 msferreira@gmail.com
-=======
-msferreira@gmail.com
->>>>>>> origin/master
