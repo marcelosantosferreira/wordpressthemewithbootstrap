@@ -21,6 +21,9 @@ For the correct navbar behavior you must read and apply this:
 
 https://github.com/twittem/wp-bootstrap-navwalker
 
+## Demo
+http://marcelosantosferreira.tk/wordpressthemewithbootstrap
+
 ## Help
 If you need help to make this Wordpress theme work properly (because of the navbar "hack") please contact me.
 
