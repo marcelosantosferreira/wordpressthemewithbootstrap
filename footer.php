@@ -52,5 +52,17 @@
     <script src="<?php bloginfo('template_url'); ?>/js/ie10-viewport-bug-workaround.js"></script>
 
     <?php wp_footer(); ?>
+
+	<script>
+		$(document).ready(function(){
+			$("#menu-menu-topo").append("<li><a href='#' id='btnSearch' data-toggle='searchform'><span class='glyphicon glyphicon-search'></span> Search</a></li>");
+			$("#menu-topo-english").append("<li><a href='#' id='btnSearch' data-toggle='searchform'><span class='glyphicon glyphicon-search'></span> Search</a></li>");
+			
+			$("#btnSearch").click(function(){
+				$("#divSearchForm").toggle();
+			});
+		});
+		
+	</script>
   </body>
 </html>

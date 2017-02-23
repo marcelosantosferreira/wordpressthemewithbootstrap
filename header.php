@@ -49,7 +49,7 @@
 				</button>
 				<a class="navbar-brand" href="<?php echo home_url(); ?>">
 					<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?> -
-						<?php echo get_bloginfo( 'description', 'display' ); ?>
+					<?php echo get_bloginfo( 'description', 'display' ); ?>
 				</a>
 				<!--
 <h4 style='display: inline'>Project name <small>project description</small></h4>
@@ -72,11 +72,11 @@
 			<!--/.nav-collapse -->
 		</div>
 	</nav>
-
 	<!-- Search Form -->
-	<div class="container nopadding">
+	<div id="divSearchForm" class="container navbar-inverse nopadding borderonrightandleft" style="display: none;">
 		<div class="row nopadding">
-			<div class="col-xs-12" align="right">
+			<div class="col-xs-12 col-md-12 col-sm-12">
+				<br>
 				<?php
 				get_search_form();
 				?>
@@ -84,3 +84,4 @@
 			</div>
 		</div>
 	</div>
+	<br>
