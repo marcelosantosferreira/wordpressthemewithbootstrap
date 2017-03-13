@@ -15,6 +15,7 @@ https://bootswatch.com/
 and apply it (copy to css folder as bootstrap.min.css)
 
 Layout 1 utilizes SuperHero - https://bootswatch.com/superhero/
+
 Layout 2 utilizes Sandstone - https://bootswatch.com/sandstone/
 
 ## Important
